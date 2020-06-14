@@ -17,7 +17,7 @@ FORDMD='numdiff.md'             # FORD config file name
 
 #compiler flags:
 
-FCOMPILER='gnu' #Set compiler to gfortran
+FCOMPILER='intel' #Set compiler to gfortran
 FCOMPILERFLAGS='-c -O2 -std=f2008'
 
 # FCOMPILER='intel' #Set compiler to gfortran
